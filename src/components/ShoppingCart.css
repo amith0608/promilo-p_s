@@ -1,0 +1,19 @@
+.ShoppingCart {
+  width: 40%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.ShoppingCart button {
+  background-color: #ff6347;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.ShoppingCart button:hover {
+  background-color: #dc143c;
+}

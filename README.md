@@ -1,1 +1,1 @@
-# promilo-p_s
+This app demonstrates a simple provision store project with react and css.

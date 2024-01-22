@@ -1,0 +1,20 @@
+.BillingInformation {
+    width: 40%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .BillingInformation button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .BillingInformation button:hover {
+    background-color: #45a049;
+  }
+  

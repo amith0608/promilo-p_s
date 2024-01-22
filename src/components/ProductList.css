@@ -1,0 +1,25 @@
+.ProductList {
+    width: 50%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .ProductItem {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+  
+  .ProductItem button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  .ProductItem button:hover {
+    background-color: #45a049;
+  }
+  
+  
